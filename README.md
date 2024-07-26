@@ -1,4 +1,4 @@
-# Trio Keligro: RPG | PROTOTYPE v.1.2 [UPDATER TEST]
+# Trio Keligro: RPG | PROTOTYPE v.2.0-test [UPDATER TEST]
 ## Actualizaciones:
 * Actualizacion de prueba de Updater.
 ## Bugs:
