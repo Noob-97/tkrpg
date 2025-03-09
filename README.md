@@ -1,4 +1,6 @@
-# Trio Keligro: RPG | PROTOTYPE v.2.0 [rPRT2.0-0]
+# Trio Keligro: RPG | PROTOTYPE v.2.0 [rPRT2.0-1]
+## Revision 1:
+* Se han eliminado las pantallas de actualizacion antiguas en MainMenu y sus excepciones donde estavan aplicadas (solo en ANDROID).
 ## Actualizaciones:
 * Guardar Partida y sistema de guardado.
 * Actualizador de juego (no disponible en ANDROID).
